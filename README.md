@@ -52,7 +52,7 @@ for sentence in sentences:
         print(f"Synonyms: {', '.join(synonyms)}\n")
 ```
 
-<H3>Output:</H3>
+## Output:
 ![image](https://github.com/user-attachments/assets/0b1132db-8040-4922-8a52-49cffe34a08a)
 
 <H3>Result:</H3>
